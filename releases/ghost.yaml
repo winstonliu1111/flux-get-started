@@ -10,7 +10,7 @@ metadata:
 spec:
   releaseName: ghost
   chart:
-    git: ssh://git@gitea-ssh:2222/zero/flux-get-started
+    git: ssh://git@github.com/winstonliu1111/flux-get-started
     ref: master
     path: charts/ghost
   values:
